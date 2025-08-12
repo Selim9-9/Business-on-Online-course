@@ -91,6 +91,7 @@ Courses don't lose value over time—they **gain momentum**:
 **Where to verify:** **Duration vs Average Revenue** line chart and the Average Courses Duration Revenue metric 
 at the top of the dashboard 
 
+### you can explore those Answers yourself from the dashboard.
 ---
 
 ## 🛠️ Technical Details
