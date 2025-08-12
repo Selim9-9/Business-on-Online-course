@@ -61,7 +61,7 @@ Courses don't lose value over time—they **gain momentum**:
 
 <p align="center">
   <a href="https://youtu.be/ZZA9vBl0Xl8">
-    <img src="Demo_video.mp4" alt="Dashboard Demo" width="600"/>
+    <img src="https://img.youtube.com/vi/ZZA9vBl0Xl8/maxresdefault.jpg" alt="Dashboard Demo" width="600"/>
   </a>
 </p>
 
