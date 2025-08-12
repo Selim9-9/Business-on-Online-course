@@ -1,7 +1,7 @@
 # Udemy Course Analytics Dashboard: The Ultimate Guide to Online Course Passive Income
 
 <p align="center">
-  <img src="your-screenshot-filename.png" alt="Udemy Course Analytics Dashboard" width="900"/>
+  <img src="Dashboard_Screenshot.png" alt="Udemy Course Analytics Dashboard" width="900"/>
 </p>
 
 > **Can you really make passive income creating online courses?** 🤔  
@@ -60,7 +60,7 @@ Courses don't lose value over time—they **gain momentum**:
 
 ## 🎥 Interactive Demo
 
-[![Dashboard Demo Video](video-thumbnail.png)](your-video-link-here)
+[![Demo_Vedio.mp4](Dashboard_Screenshot.png)].
 *Click to watch the full dashboard walkthrough*
 
 ---
@@ -68,29 +68,30 @@ Courses don't lose value over time—they **gain momentum**:
 ## 🔍 Beginner Questions — Dashboard Solutions
 
 ### 1. **"Can I make money from one course?"**
-**Answer:** ✅ YES! Average revenue per course is **$28K annually** (paid courses only, 4-hour average duration)
+**Answer:** YES! Average revenue per course is **$28K annually** (paid courses only, 4-hour average duration)
 **Where to verify:** Check **Avg Revenue per Course** KPI and **Top Courses Revenue**
 
 ### 2. **"Do old courses still sell?"**
-**Answer:** 🚀 They sell BETTER! 14-year courses earn 13x more than 8-year courses
+**Answer:** They sell BETTER! 14-year courses earn 13x more than 8-year courses
 **Where to verify:** **"Avg Course Revenue by Course Age (Years)"** bar chart
 
 ### 3. **"How many students do I need?"**
-**Answer:** 📊 Average successful courses have **3,261 students**
+**Answer:** Average successful courses have **3,261 students**
 **Formula:** Revenue = Students × Price
 **Where to verify:** **Avg Students per Course** KPI
 
 ### 4. **"Which topics sell best?"**
-**Answer:** 💼 Business Finance and Web Development dominate
+**Answer:** Business Finance and Web Development dominate
 **Where to verify:** **Average Revenue by Category** and **Total Student Numbers** charts
 
 ### 5. **"How should I price my course?"**
-**Answer:** 💰 **$73 average**, but can go up to **$200**
+**Answer:** **$73 average**, but can go up to **$200**
 **Where to verify:** **Distribution of Course Price** and **Distribution of Revenue** charts
 
 ### 6. **"Does course length matter?"**
-**Answer:** 📏 YES! Longer courses = Higher revenue (see dramatic correlation)
-**Where to verify:** **Duration vs Average Revenue** line chart
+**Answer:**  YES! Longer courses = Higher revenue
+**Where to verify:** **Duration vs Average Revenue** line chart and the Average Courses Duration Revenue metric 
+at the top of the dashboard 
 
 ---
 
@@ -116,14 +117,14 @@ The **Free vs Paid Course** filter is **not connected** to paid-course KPIs, ens
 
 ## 🎨 Dashboard Highlights
 
-### 📊 **8 Powerful Visualizations:**
+###**8 Powerful Visualizations:**
 1. **KPI Overview:** Essential metrics at a glance
 2. **Student Distribution by Category:** Market size analysis
 3. **Average Students by Course Age:** Growth trends over time
 4. **Top Revenue Courses:** Success stories and benchmarks
 5. **Course Price Distribution:** Pricing landscape
 6. **Average Course Revenue by Category:** Niche profitability
-7. **Duration vs Revenue Correlation:** Content strategy insights
+7. **Duration vs Revenue:** Content strategy insights
 8. **Revenue Distribution by Ranges:** Market segments
 
 ### 🎯 **Strategic Filter System:**
@@ -153,12 +154,12 @@ The **Free vs Paid Course** filter is **not connected** to paid-course KPIs, ens
 
 ## ⏱️ Development Timeline
 
-**Total Investment:** 14+ hours
-- 🧹 **Data Cleaning:** 4 hours
-- 📊 **KPI Development:** 3 hours  
-- 🎨 **Visualization Design:** 4 hours
-- 📖 **Storytelling & Layout:** 2 hours
-- 🔍 **Business Analysis:** 1+ hours
+**Total Investment:** 14+ hours ON:
+- 🧹 Data Cleaning: 
+- 📊 KPI Development:  
+- 🎨 Visualization Design
+- 📖 Storytelling & Layout 
+- 🔍 Business Analysis
 
 ---
 
