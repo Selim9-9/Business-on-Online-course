@@ -41,26 +41,26 @@ If you've heard about making money from online courses on platforms like Udemy, 
 
 ## 🔥 Most Shocking Discoveries
 
-### 💎 **The Age Advantage**
+###**The Age Advantage**
 - **14-year-old courses** earn **13x more** than 8-year courses
 - **Mature courses (14 years):** $1.94M average lifetime revenue
 - **Newer courses (8 years):** $143K average lifetime revenue
 
-### 🎯 **Category Winners**
+###**Category Winners**
 1. **Business Finance:** $117K average revenue
 2. **Web Development:** $591K average revenue  
 3. **Graphic Design:** $140K average revenue
 
-### ⏰ **The Compound Effect**
+###**The Compound Effect**
 Courses don't lose value over time—they **gain momentum**:
 - **Year 8:** 19,858 average students per course
 - **Year 14:** Exponentially more students and revenue
 
 ---
 
-## 🎥 Interactive Demo
+## 🎥 Video Demo
 
-[![Demo_Vedio.mp4](Dashboard_Screenshot.png)].
+[![Demo_Vedio](Demo_Video.mp4)].
 *Click to watch the full dashboard walkthrough*
 
 ---
