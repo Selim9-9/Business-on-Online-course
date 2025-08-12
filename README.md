@@ -58,7 +58,14 @@ Courses don't lose value over time—they **gain momentum**:
 
 ## 🎥 Video Demo
 
-![Demo_Vedio](Demo_Video.mp4).
+
+<p align="center">
+  <a href="https://youtu.be/ZZA9vBl0Xl8">
+    <img src="dashboard-demo.gif" alt="Dashboard Demo" width="600"/>
+  </a>
+</p>
+
+**🎬 [► Watch Full Video Demo](https://youtu.be/ZZA9vBl0Xl8)**
 *Click to watch the full dashboard walkthrough*
 
 ---
