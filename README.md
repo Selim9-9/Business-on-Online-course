@@ -206,14 +206,18 @@ Use the advanced filtering system to drill down into specific revenue segments a
 
 ---
 
-## 📜 License & Usage
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+🤝 Usage & Permissions
+Feel free to use this dashboard and analysis for:
 
-This dashboard and analysis are available for:
-- ✅ Educational purposes
-- ✅ Personal course planning  
-- ✅ Business strategy development
-- ✅ Market research
+✅ Commercial use - Build your own course business
+✅ Educational purposes - Learn data analysis techniques
+✅ Personal projects - Adapt for your own research
+✅ Modifications - Customize for different platforms
+✅ Distribution - Share with fellow entrepreneurs
 
+Attribution appreciated but not required! 🙏
 ---
 
 <p align="center">
