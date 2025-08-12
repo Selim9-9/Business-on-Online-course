@@ -187,10 +187,10 @@ Use the advanced filtering system to drill down into specific revenue segments a
 ## 📁 Repository Contents
 
 ```
-├── dashboard-screenshot.png       # Main dashboard view
-├── demo-video.mp4                # Interactive walkthrough
-├── Online_Courses_Dashboard.xlsm           # Excel dashboard
-├── README.md                     # This file
+├── dashboard-screenshot.png          # Main dashboard view
+├── Online_Courses_Dashboard.xlsm     # Excel dashboard
+├── LICENSE                           # MIT License
+├── README.md                         # This file
 
 ```
 
