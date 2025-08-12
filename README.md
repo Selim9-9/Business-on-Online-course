@@ -11,15 +11,13 @@ If you've heard about making money from online courses on platforms like Udemy, 
 
 ## 🎯 Key Questions This Dashboard Answers
 
-✅ **"What should I charge?"**  
-✅ **"Which category pays best?"**  
-✅ **"How many students do I need?"**  
-✅ **"What's the revenue potential?"**  
-✅ **"What's the best course duration for long-term passive income?"**
+**"What should I charge?"**  
+**"Which category pays best?"**  
+**"How many students do I need?"**  
+**"What's the revenue potential?"**  
+**"What's the best course duration for long-term passive income?"**
 
 ---
-
-## 📈 The Numbers Don't Lie
 
 ### Dataset Overview:
 - **3,603 Courses** analyzed in total
@@ -60,7 +58,7 @@ Courses don't lose value over time—they **gain momentum**:
 
 ## 🎥 Video Demo
 
-[![Demo_Vedio](Demo_Video.mp4)].
+![Demo_Vedio](Demo_Video.mp4).
 *Click to watch the full dashboard walkthrough*
 
 ---
